@@ -1,6 +1,6 @@
 # prng
 
-Experiments with pseudorandom number generators and computation expressions inspired by Elm.
+Experiments with pseudo-random number generators and computation expressions, inspired by Elm.
 
 ## Development
 
