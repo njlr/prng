@@ -1,0 +1,7 @@
+bin
+obj
+.paket
+paket-files
+packages
+.fable
+*.fs.js
